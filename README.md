@@ -1,3 +1,5 @@
+![Deploy static content to Pages](https://github.com/leakquicked/profitlab-ai/actions/workflows/static.yml/badge.svg)
+
 # ProfitLab AI
 
 **Responsive static demo** for business analytics (hackathon project)  
